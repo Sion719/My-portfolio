@@ -19,7 +19,6 @@ Applied repeated-measures ANOVAs to test predictions from slot and resource-base
 Conducted data analysis in JASP and Excel, with additional coding in Python/MATLAB for experimental design.
 
 Demonstrates strengths in experimental design, statistical reasoning, and data interpretation.
-🔗 View Repository
 
 2. 💼 IBM Data Science Capstone Project
 
