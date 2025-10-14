@@ -7,8 +7,8 @@ Through the IBM Data Science Professional Certificate and self-driven SQL, Excel
 
 This portfolio showcases selected analytical projects demonstrating my ability to clean, explore, and visualize data using data analyst and data science techniques.
 
-📂 Projects
-1. 🎓 Undergraduate Dissertation
+ Projects
+1.  Undergraduate Dissertation
 
 Title: Investigating the Role of Spatial and Non-Spatial Attention in Visual Short-Term Memory
 
@@ -21,7 +21,7 @@ Conducted data analysis in JASP and Excel, with additional coding in Python/MATL
 Demonstrates strengths in experimental design, statistical reasoning, and data interpretation.
 
 
-2. 💼 IBM Data Science Capstone Project
+2.  IBM Data Science Capstone Project
 
 Title: Analyzing SpaceX Falcon 9 Launch Performance
 
@@ -32,10 +32,9 @@ Performed data wrangling, EDA, and predictive modeling to determine factors infl
 Tools: Python, Pandas, SQL, Jupyter, Plotly, Dash.
 
 Highlights ability to connect technical data analysis with business-relevant insights.
-🔗 View Repository
 
 🛠️ Technical Skills
 
 Languages: Python, SQL
-Tools: Power BI, Excel, Jupyter, GitHub
+Tools:Excel, Jupyter Notebook
 Concepts: Data Cleaning, Visualization, Statistical Analysis, Business Reporting
