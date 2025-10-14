@@ -21,6 +21,7 @@ Conducted data analysis in JASP and Excel, with additional coding in Python/MATL
 Demonstrates strengths in experimental design, statistical reasoning, and data interpretation.
 
 
+
 2.  IBM Data Science Capstone Project
 
 Title: Analyzing SpaceX Falcon 9 Launch Performance
