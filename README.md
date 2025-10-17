@@ -1,7 +1,7 @@
 # My-portfolio
 Sion Pritchard — Data Analyst Portfolio
 
- About Me
+ About Me:
 I’m a Psychology with Cognitive Neuroscience graduate with a strong foundation in scientific research, data analysis, and statistics.
 Through the IBM Data Science Professional Certificate and self-driven SQL, Excel, and Power BI development, I’ve built hands-on experience turning raw data into actionable insights.
 
