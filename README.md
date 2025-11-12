@@ -1,11 +1,9 @@
 # My-portfolio
-Sion Pritchard — Data Analyst Portfolio
+Sion Pritchard — Personal Portfolio
 
  About Me:
 I’m a Psychology with Cognitive Neuroscience graduate with a strong foundation in scientific research, data analysis, and statistics.
 Through the IBM Data Science Professional Certificate and self-driven SQL, Excel, and Power BI development, I’ve built hands-on experience turning raw data into actionable insights.
-
-This portfolio showcases selected analytical projects demonstrating my ability to clean, explore, and visualize data using data analyst and data science techniques.
 
  Projects
 1.  Undergraduate Dissertation
@@ -39,3 +37,11 @@ Highlights ability to connect technical data analysis with business-relevant ins
 Languages: Python, SQL
 Tools:Excel, Jupyter Notebook
 Concepts: Data Cleaning, Visualization, Statistical Analysis, Business Reporting
+
+
+3. Assignment from my degree course
+
+Title: Consulting on Visual Time Perception for enhanced immersion and user experience
+Tasked with showcasing how the impact of our brain's interpretation of space/time can be manipulated to create more immersive experiences for new gaming technology.
+
+Highlights ability to use theory and apply to practical, real-world scenarios.
