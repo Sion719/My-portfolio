@@ -45,3 +45,8 @@ Title: Consulting on Visual Time Perception for enhanced immersion and user expe
 Tasked with showcasing how the impact of our brain's interpretation of space/time can be manipulated to create more immersive experiences for new gaming technology.
 
 Highlights ability to use theory and apply to practical, real-world scenarios.
+
+
+4. Another assignment from my course
+
+Title: Evaluating the Bayesian brain hypothesis through EEG and fMRI evidence 
