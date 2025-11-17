@@ -6,7 +6,7 @@ I’m a Psychology with Cognitive Neuroscience graduate with a strong foundation
 Through the IBM Data Science Professional Certificate and self-driven SQL, Excel, and Power BI development, I’ve built hands-on experience turning raw data into actionable insights.
 
  Projects
-1.  Undergraduate Dissertation
+1.  Undergraduate Dissertation (85% mark)
 
 Title: Investigating the Role of Spatial and Non-Spatial Attention in Visual Short-Term Memory
 
@@ -39,7 +39,7 @@ Tools:Excel, Jupyter Notebook
 Concepts: Data Cleaning, Visualization, Statistical Analysis, Business Reporting
 
 
-3. Assignment from my degree course
+3. Assignment from my degree course (75% mark)
 
 Title: Consulting on Visual Time Perception for enhanced immersion and user experience
 Tasked with showcasing how the impact of our brain's interpretation of space/time can be manipulated to create more immersive experiences for new gaming technology.
@@ -47,6 +47,6 @@ Tasked with showcasing how the impact of our brain's interpretation of space/tim
 Highlights ability to use theory and apply to practical, real-world scenarios.
 
 
-4. Another assignment from my course
+4. Another assignment from my course (80%)
 
 Title: Evaluating the Bayesian brain hypothesis through EEG and fMRI evidence 
