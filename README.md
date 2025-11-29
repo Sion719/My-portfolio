@@ -50,3 +50,6 @@ Highlights ability to use theory and apply to practical, real-world scenarios.
 4. Another assignment from my course (80%)
 
 Title: Evaluating the Bayesian brain hypothesis through EEG and fMRI evidence 
+
+5. Poker micro-project
+Analysed human decision-making under uncertainty in poker by predicting player actions (fold / call / raise) from hand features, and extract insights into cognitive patterns such as risk assessment, attention to salient information, and reward evaluation.
