@@ -1,11 +1,12 @@
 # My-portfolio
-Sion Pritchard — Personal Portfolio
 
  About Me:
 I’m a Psychology with Cognitive Neuroscience graduate with a strong foundation in scientific research, data analysis, and statistics.
 Through the IBM Data Science Professional Certificate and self-driven SQL, Excel, and Power BI development, I’ve built hands-on experience turning raw data into actionable insights.
 
- Projects
+Below are examples of how I think and work, they're not all polished products, but they are evidence of reasoning.
+
+# Projects:
 1.  Undergraduate Dissertation (85% mark)
 
 Title: Investigating the Role of Spatial and Non-Spatial Attention in Visual Short-Term Memory
