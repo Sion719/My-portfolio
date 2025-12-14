@@ -7,7 +7,7 @@ Through the IBM Data Science Professional Certificate and self-driven SQL, Excel
 Below are examples of how I think and work, they're not all polished products, but they are evidence of reasoning.
 
 # Projects:
-1.  Undergraduate Dissertation (85% mark)
+1. ### Undergraduate Dissertation (85% mark)
 
 Title: Investigating the Role of Spatial and Non-Spatial Attention in Visual Short-Term Memory
 
