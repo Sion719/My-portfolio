@@ -1,8 +1,8 @@
 # My-portfolio
 
  About Me:
-I’m a Psychology with Cognitive Neuroscience graduate with a strong foundation in scientific research, data analysis, and statistics.
-Through the IBM Data Science Professional Certificate and self-driven SQL, Excel, and Power BI development, I’ve built hands-on experience turning raw data into actionable insights.
+I’m a Psychology with Cognitive Neuroscience graduate with applied data analysis skills, interested in roles where analytical works intersects with how humans actually think, behave, and make decisions.
+My focus is on translating complex cognitive and behavioural data in to insights that inform real-world decisions.
 
 Below are examples of how I think and work, they're not all polished products, but they are evidence of reasoning.
 
